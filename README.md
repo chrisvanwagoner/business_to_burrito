@@ -1,4 +1,4 @@
-# Bad parent to Bad Parent
+# Developer to Bad Parent
 
 @kerrizor's [Chrome extension](https://chrome.google.com/webstore/detail/business-to-burrito/mklnohaomoachkljliheemednbedbaog) [code](https://github.com/kerrizor/business_to_burrito), but it replaces "developer" with "bad parent".
 
