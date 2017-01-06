@@ -1,8 +1,5 @@
-# Business to Burrito
-![burrito](images/burrito_icon.png)
+# Developer to Bad Parent
 
-A [Chrome extension](https://chrome.google.com/webstore/detail/business-to-burrito/mklnohaomoachkljliheemednbedbaog) which replaces the word "business" with "burrito".
+@kerrizor's [Chrome extension](https://chrome.google.com/webstore/detail/business-to-burrito/mklnohaomoachkljliheemednbedbaog) code, but it replaces "developer" with "bad parent".
 
-![burrito](images/screenshot_wikipedia.png)
-
-You're welcome.
+Inspired by the [@10x_bad_dad](https://twitter.com/10x_bad_dad) Twitter bot.
